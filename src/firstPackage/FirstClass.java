@@ -15,7 +15,7 @@ public class FirstClass {
         System.out.println("merge conflict 2 from local to remote");
 
         System.out.println("merge conflict 2 from remote to local");
-
+        System.out.println("changes from local f1 branch");
 
 
     }
