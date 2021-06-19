@@ -19,5 +19,7 @@ public class FirstClass {
 
         System.out.println("conflict on local feature");
 
+        System.out.println("conflict on remote master branch");
+
     }
 }
